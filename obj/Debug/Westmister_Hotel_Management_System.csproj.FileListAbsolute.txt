@@ -1,0 +1,10 @@
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\bin\Debug\Westmister_Hotel_Management_System.exe.config
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\bin\Debug\Westmister_Hotel_Management_System.exe
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\bin\Debug\Westmister_Hotel_Management_System.pdb
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\obj\Debug\Westmister_Hotel_Management_System.csproj.AssemblyReference.cache
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\obj\Debug\Westmister_Hotel_Management_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\obj\Debug\Westmister_Hotel_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\obj\Debug\Westmister_Hotel_Management_System.exe
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\obj\Debug\Westmister_Hotel_Management_System.pdb
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\bin\Debug\Colorful.Console.dll
+C:\Users\JP-WEB\source\repos\OOP_ICT\Westmister_Hotel_Management_System\obj\Debug\Westmister_Hotel_Management_System.csproj.CopyComplete

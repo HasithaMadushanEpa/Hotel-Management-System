@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Westmister_Hotel_Management_System.Room" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAwgIIAIIAQAAgAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.152" />
+  </Class>
+  <Class Name="Westmister_Hotel_Management_System.DeluxeRoom" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAABAAAAAQEAAAABAAA=</HashCode>
+      <FileName>DeluxeRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Westmister_Hotel_Management_System.StandardRoom" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StandardRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Westmister_Hotel_Management_System.WestminsterHotel" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQAKAAAAAAACAAIAAAAAAAEAAAAQAAAACAAEA=</HashCode>
+      <FileName>WestminsterHotel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.118" />
+  </Class>
+  <Class Name="Westmister_Hotel_Management_System.Booking" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAABAEAACABgAgAAIBIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Booking.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.123" />
+  </Class>
+  <Interface Name="Westmister_Hotel_Management_System.IHotelCustomer" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAA=</HashCode>
+      <FileName>IHotelCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Westmister_Hotel_Management_System.IHotelManager" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKAAAAAAACAAAAAAAAAAAAAAAAAAAACAAEA=</HashCode>
+      <FileName>IHotelManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Westmister_Hotel_Management_System.IOverlappable" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAACAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOverlappable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.IComparable&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Enum Name="Westmister_Hotel_Management_System.Size" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Size.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Westmister_Hotel_Management_System.View" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
